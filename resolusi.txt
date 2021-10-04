@@ -3,3 +3,5 @@ mendalami data scientist dan machine learning
 harus bisa menguasai dan menerapkan poin nomer 2 dikehidupan sehari hari
 harus tetap semangat
 bulan oktober masuk kursus data scientist yes
+membuat rangkuman apa yg dipelajari 
+mereview ulang pelajaran yang telah dipelajari untuk dimengerti bukan di hafalkan
