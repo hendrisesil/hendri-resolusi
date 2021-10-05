@@ -1,0 +1,3 @@
+menerapkan machine learning pada kasus di kehidupan sehari hari
+estimasi,forcasting,klustering,klasifikasi,asosiasi
+mendalami pemilihan machine learning yang sesuai dengan kasus yang ada 
