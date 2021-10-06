@@ -8,3 +8,4 @@ mempelajari perbedaan antara data test dan data training
 belajar men deploy machine learning yang telah terbentuk utj kebutuhan sehari hari 
 - mendalami langkah langkah teknis untuk mendeploy machine learning kita untuk bagian produk
 - melakukan test ulang machine learning kita di bagian produk 
+- mencatat kelemahan kelemahan machine learning bila ada dan mereview ke bagian data scientist
