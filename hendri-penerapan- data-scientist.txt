@@ -5,3 +5,4 @@ membedakan ke 5 jenis algoritma besama machine learningnya
 mempelajari langkah langkah pengambilan data baik dari web,database,repository
 mempelajari langkah langkah pengolahan data serta split data 
 mempelajari perbedaan antara data test dan data training 
+belajar men deploy machine learning yang telah terbentuk utj kebutuhan sehari hari 
