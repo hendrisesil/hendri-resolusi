@@ -1,6 +1,8 @@
 menerapkan machine learning pada kasus di kehidupan sehari hari
 estimasi,forcasting,klustering,klasifikasi,asosiasi
 mendalami pemilihan machine learning yang sesuai dengan kasus yang ada 
+- menentukan kriteria kriteria 5 jenis algoritma dihubungkan dengan data setnya 
+- mendalami pengolahan data set untuk siap di masukkan ke machine learning sesuai dengan algoritma yg digunakan 
 membedakan ke 5 jenis algoritma besama machine learningnya 
 mempelajari langkah langkah pengambilan data baik dari web,database,repository
 mempelajari langkah langkah pengolahan data serta split data 
